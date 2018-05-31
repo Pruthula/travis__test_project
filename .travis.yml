@@ -4,3 +4,6 @@ jdk:
 - oraclejdk8
 script:
 - ./run.sh
+notifications:
+  email:
+    - pruthula@gmail.com
